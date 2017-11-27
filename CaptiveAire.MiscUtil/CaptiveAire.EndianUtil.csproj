@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net35</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>http://www.yoda.arachsys.com/csharp/miscutil/</PackageProjectUrl>
+    <Authors>Jon Skeet and Marc Gravell</Authors>
+    <Company />
+    <Product>EndianUtil</Product>
+    <Copyright>Copyright (c) 2004-2008 Jon Skeet and Marc Gravell.</Copyright>
+    <RepositoryUrl>https://github.com/CaptiveAire/CaptiveAire.EndianUtils</RepositoryUrl>
+    <PackageTags>endian endianness</PackageTags>
+  </PropertyGroup>
+
+</Project>
