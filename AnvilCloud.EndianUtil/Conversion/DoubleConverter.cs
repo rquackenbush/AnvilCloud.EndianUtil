@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace CaptiveAire.EndianUtil.Conversion
+namespace AnvilCloud.EndianUtil.Conversion
 {
 	/// <summary>
 	/// A class to allow the conversion of doubles to string representations of

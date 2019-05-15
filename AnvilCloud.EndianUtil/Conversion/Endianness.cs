@@ -1,5 +1,5 @@
 
-namespace CaptiveAire.EndianUtil.Conversion
+namespace AnvilCloud.EndianUtil.Conversion
 {
 	/// <summary>
 	/// Endianness of a converter

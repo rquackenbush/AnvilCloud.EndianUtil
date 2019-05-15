@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 using System.Text;
-using CaptiveAire.EndianUtil.Conversion;
+using AnvilCloud.EndianUtil.Conversion;
 
-namespace CaptiveAire.EndianUtil.IO
+namespace AnvilCloud.EndianUtil.IO
 {
 	/// <summary>
 	/// Equivalent of System.IO.BinaryWriter, but with either endianness, depending on

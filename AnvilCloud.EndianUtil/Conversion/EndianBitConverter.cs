@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace CaptiveAire.EndianUtil.Conversion
+namespace AnvilCloud.EndianUtil.Conversion
 {
 	/// <summary>
 	/// Equivalent of System.BitConverter, but with either endianness.

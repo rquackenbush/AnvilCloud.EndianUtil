@@ -1,5 +1,5 @@
 
-namespace CaptiveAire.EndianUtil.Conversion
+namespace AnvilCloud.EndianUtil.Conversion
 {
 	/// <summary>
 	/// Implementation of EndianBitConverter which converts to/from big-endian
